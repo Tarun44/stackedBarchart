@@ -1,0 +1,45 @@
+[{
+	"country": "Argentina",
+	"transport": 877,
+	"others": 877,
+	"food":820 ,
+	"technology": 600
+	
+}, {
+	"country": "Belgium",
+	"transport": 873,
+	"others": 873,
+	"food": 223,
+	"technology": 763
+	
+}, {
+	"country": "Canada",
+	"transport": 677,
+	"others": 677,
+	"food": 767,
+	"technology": 893
+	
+}, {
+	"country": "France",
+	"transport": 678,
+	"others": 678,
+	"food": 703,
+	"technology": 732
+	
+
+}, {
+	"country": "Italy",
+	"transport": 763,
+	"others": 763,
+	"food": 888,
+	"technology": 883
+	
+}, {
+	"country": "India",
+	"transport": 883,
+	"others": 883,
+	"food": 333,
+	"technology": 882,
+	"food1": 333
+	
+}]

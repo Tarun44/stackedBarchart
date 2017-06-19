@@ -1,0 +1,11 @@
+.axis-stack-bar-x path,  .axis-stack-bar-y path{
+    stroke:none !important;
+}
+.stacked_bar_tooltip{
+    background-color:#0cae96;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-size: 10px;
+    
+}
